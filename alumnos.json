@@ -1,0 +1,60 @@
+{
+    "alumnos": [
+      {
+        "id": 1,
+        "nombre": "Ana García",
+        "edad": 20,
+        "genero": "mujer",
+        "calificacion": 85,
+        "aprobado": true
+      },
+      {
+        "id": 2,
+        "nombre": "Carlos López",
+        "edad": 17,
+        "genero": "hombre",
+        "calificacion": 45,
+        "aprobado": false
+      },
+      {
+        "id": 3,
+        "nombre": "María Rodríguez",
+        "edad": 19,
+        "genero": "mujer",
+        "calificacion": 92,
+        "aprobado": true
+      },
+      {
+        "id": 4,
+        "nombre": "Juan Pérez",
+        "edad": 16,
+        "genero": "hombre",
+        "calificacion": 78,
+        "aprobado": true
+      },
+      {
+        "id": 5,
+        "nombre": "Laura Martínez",
+        "edad": 21,
+        "genero": "mujer",
+        "calificacion": 38,
+        "aprobado": false
+      },
+      {
+        "id": 6,
+        "nombre": "Pedro Sánchez",
+        "edad": 18,
+        "genero": "hombre",
+        "calificacion": 88,
+        "aprobado": true
+      },
+      {
+        "id": 7,
+        "nombre": "Alejandro Cegobiano",
+        "edad": 26,
+        "genero": "hombre",
+        "calificacion":100,
+        "aprobado":true
+      }
+    ]
+  }
